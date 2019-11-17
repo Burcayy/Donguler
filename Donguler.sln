@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{C14C1FE8-7087-4DDB-92E5-BD6A188AF88B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler_Do_While", "Donguler_Do_While\Donguler_Do_While.csproj", "{63C5267E-B4E4-4D35-933B-DE2EF8FC57E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C14C1FE8-7087-4DDB-92E5-BD6A188AF88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14C1FE8-7087-4DDB-92E5-BD6A188AF88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14C1FE8-7087-4DDB-92E5-BD6A188AF88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C5267E-B4E4-4D35-933B-DE2EF8FC57E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C5267E-B4E4-4D35-933B-DE2EF8FC57E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C5267E-B4E4-4D35-933B-DE2EF8FC57E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C5267E-B4E4-4D35-933B-DE2EF8FC57E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

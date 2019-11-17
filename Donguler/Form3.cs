@@ -52,8 +52,6 @@ namespace Donguler
                 }
                 i++;
             }
-        }
-
-
+        } 
     }
 }
